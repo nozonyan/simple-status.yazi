@@ -20,6 +20,7 @@ return {
 		
 
 		Status:children_add(spacer, 900, Status.RIGHT)
+		Status:children_add(spacer, 1100, Status.RIGHT)
 		Status:children_add(nlink, 1200, Status.RIGHT)
 
 	end,
